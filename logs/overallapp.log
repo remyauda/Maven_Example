@@ -1,0 +1,30 @@
+2017-03-09 22:18:01,150 WARN  [main] project.App (App.java:30) - msg d'avertissement
+2017-03-09 22:18:01,152 ERROR [main] project.App (App.java:33) - msg d'erreur
+2017-03-09 22:18:01,153 FATAL [main] project.App (App.java:36) - msg d'erreur fatale
+2017-03-09 22:22:55,148 WARN  [main] project.App (App.java:30) - msg d'avertissement
+2017-03-09 22:22:55,154 ERROR [main] project.App (App.java:33) - msg d'erreur
+2017-03-09 22:22:55,158 FATAL [main] project.App (App.java:36) - msg d'erreur fatale
+2017-03-09 22:25:51,837 WARN  [main] project.App (App.java:30) - msg d'avertissement
+2017-03-09 22:25:51,840 ERROR [main] project.App (App.java:33) - msg d'erreur
+2017-03-09 22:25:51,840 FATAL [main] project.App (App.java:36) - msg d'erreur fatale
+2017-03-09 22:29:03,412 WARN  [main] project.App (App.java:30) - msg d'avertissement
+2017-03-09 22:29:03,421 ERROR [main] project.App (App.java:33) - msg d'erreur
+2017-03-09 22:29:03,427 FATAL [main] project.App (App.java:36) - msg d'erreur fatale
+2017-03-09 22:40:38,311 WARN  [main] project.App (App.java:30) - msg d'avertissement
+2017-03-09 22:40:38,320 ERROR [main] project.App (App.java:33) - msg d'erreur
+2017-03-09 22:40:38,326 FATAL [main] project.App (App.java:36) - msg d'erreur fatale
+2017-03-09 22:41:18,059 WARN  [main] project.App (App.java:30) - msg d'avertissement
+2017-03-09 22:43:10,915 WARN  [main] project.App (App.java:30) - msg d'avertissement
+2017-03-09 22:43:10,918 ERROR [main] project.App (App.java:33) - msg d'erreur
+2017-03-09 22:43:10,918 FATAL [main] project.App (App.java:36) - msg d'erreur fatale
+2017-03-09 22:46:01,735 WARN  [main] project.App (App.java:30) - msg d'avertissement
+2017-03-09 22:47:28,392 WARN  [main] project.App (App.java:30) - msg d'avertissement
+2017-03-09 22:48:19,558 WARN  [main] project.App (App.java:30) - msg d'avertissement
+2017-03-09 22:48:19,805 ERROR [main] project.App (App.java:33) - msg d'erreur
+2017-03-09 22:48:19,823 FATAL [main] project.App (App.java:36) - msg d'erreur fatale
+2017-03-09 22:55:47,464 WARN  [main] project.App (App.java:30) - msg d'avertissement
+2017-03-09 22:55:47,547 ERROR [main] project.App (App.java:33) - msg d'erreur
+2017-03-09 22:55:47,569 FATAL [main] project.App (App.java:36) - msg d'erreur fatale
+2017-03-09 22:55:49,806 WARN  [main] project.App (App.java:30) - msg d'avertissement
+2017-03-09 22:55:49,893 ERROR [main] project.App (App.java:33) - msg d'erreur
+2017-03-09 22:55:49,925 FATAL [main] project.App (App.java:36) - msg d'erreur fatale
